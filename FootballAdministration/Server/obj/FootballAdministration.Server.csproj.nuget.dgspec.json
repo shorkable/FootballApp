@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Server/FootballAdministration.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/FootballAdministration.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/FootballAdministration.Client.csproj",
+        "projectName": "FootballAdministration.Client",
+        "projectPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/FootballAdministration.Client.csproj",
+        "packagesPath": "/Users/rasmusklatt/.nuget/packages/",
+        "outputPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rasmusklatt/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj": {
+                "projectPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Server/FootballAdministration.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Server/FootballAdministration.Server.csproj",
+        "projectName": "FootballAdministration.Server",
+        "projectPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Server/FootballAdministration.Server.csproj",
+        "packagesPath": "/Users/rasmusklatt/.nuget/packages/",
+        "outputPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rasmusklatt/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/FootballAdministration.Client.csproj": {
+                "projectPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/FootballAdministration.Client.csproj"
+              },
+              "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj": {
+                "projectPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj",
+        "projectName": "FootballAdministration.Shared",
+        "projectPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/FootballAdministration.Shared.csproj",
+        "packagesPath": "/Users/rasmusklatt/.nuget/packages/",
+        "outputPath": "/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rasmusklatt/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.14.0, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

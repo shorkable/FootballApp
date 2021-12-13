@@ -1,0 +1,600 @@
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Client.StaticWebAssets.xml
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Client.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Client.pdb
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/service-worker-assets.js
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/service-worker.js
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Client.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/MongoDB.Bson.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.Bson.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/service-worker-assets.js.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Client.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Shared.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/MongoDB.Bson.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.Bson.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Options.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Primitives.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.JSInterop.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/MongoDB.Bson.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Newtonsoft.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/Newtonsoft.Json.Bson.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Buffers.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.ComponentModel.Annotations.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Memory.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Net.Http.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Numerics.Vectors.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Text.Encodings.Web.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Text.Json.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/System.Threading.Tasks.Extensions.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Shared.pdb
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.csproj.AssemblyReference.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.AssemblyInfoInputs.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.AssemblyInfo.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.csproj.CoreCompileInputs.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorComponent.input.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/App.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Pages/Playerdata.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Pages/TeamsOverview.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorComponent.output.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/FootballAdministration.Client.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.TagHelpers.input.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.TagHelpers.output.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorCoreGenerate.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/App.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Pages/Index.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Pages/Playerdata.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Pages/TeamsOverview.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/_Imports.razor.g.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/linker.descriptor.xml
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/linker.typegranularityconfig.xml
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/qiqi5VaQ1faW31WsBIhhf3-h1nIn94fc5KN_SxPf2A4=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/IXrKGDfGqqNej4KI3E42HsIR1nNur_vuirXBNGiBvL0=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/UEhHpYyqnZ4uK_q4Apy3U7yGxpC7fG58OnKmcvfEy28=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/CE8KT5HPCv1FY6ObPOWyD6e8oBhLhNFJRJ5_-z2vsPY=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/KfStXmmq2m3Uj7u5bCWVlTh7LyFU3jdhH92QgAFVcic=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/VIiZBwFUdeUxUFcifmJhchmma85wyRFSYjFdHxyBucU=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/FEYK2h-c4-_M35EMD6ksqPS-RxYnPzvFnPdxk_AqQUw=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/XropCGNUbO63KSx-nR8dbG0xb_YcUB7nWufHlP8R-VE=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/ykGB3feIK0h00OxeKAqIh8o2v05iD5KV7W5c7wJAXb0=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/Ko7_S_iHda46Qpyh7fTxRYPmN3E8NngUkaNnCT5VcBM=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/Ty9S-aWZuU503peWJc06eOLsqAoDk-THdz5DjAKAI7M=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/DKVtL4IZW1JB_uYN7WyGLrxPIKTKwHrPZIzqJBECxAw=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/S1-BLEpIIqC3lYo1J6xuob_fBvE4mEfzrFUWWVd-O80=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/X-TZS1S4-c45dtry4-zUyP_EsePwOk9_eoJ81kXTagY=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/em7arGOXfd8a1j1JeGZ6jWraRJDzRxhFbTwt49S1r6c=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/23dMPzEQyPi4q6YdV4y29XfV1TER0icg1RA06rHW10w=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/2vvqnVBNcrjvwCKPRBbv8pYTvn5k_F0umd1ugOnnn4A=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/glxY9DRf0wT-xnFC4AtvPzC1a-GnVNyYMhOZS4_b-4c=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/CIbdT3TsXS0QVICAP4C_9bFjyQm0VjHS3PVXPUZuwsg=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/dpSAkgV3oAD4a9jfm0Tao4g2DyYg3xPJEVX8mrvRoNw=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/H0nhGaVKP_W0IN2EG6cj4LXhBSQKuumzF3_lpZoYqzI=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/qk-UEsnfa16wsMPdj4px_QFQmvw5EUEHJyT4btYCvX8=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/SmNZ0_FXYOSI65ywjNHr12ROG7zqDxBpkhgzJXc4tkc=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/KgqC_Yvb-4JhPLviAwlYQMInyzEKhun-ZIjlsbVZXLg=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/ug6Jj3YTMn9MUUjLaAUpekq74wqkvG8TcMEtGxsUadk=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/LMFQ-Makw4B-uaAJ89lP2dHxN6zNOtTaaO2OoUW3MFo=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/QP4n6Y3cUCnUo9MXLh5faHHKqipDa_0K6a1ief3Ji0I=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/dTiruVm0gKWtlSW6cBD2iEROM5S6Jb5kMmif1-HdsJw=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/VVdzfpCKU8Io4TMhP4NY69NlsusaerMOJpfILJJAAyo=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/OXaQoI2ICRNkxhK4K75lTJPLT40_9Vt2Fd7oJy80JS4=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/odv5-e1OmRPFuuqnPF-ImCj4aQGDXRgTXtkXq6TKoQ4=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/VNRJdYEYGtFoyI1iLUZ3Ujwp8yOlt4q4RNniM0xNtZQ=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/ycCDWe7JDUO9YTc3rwtR_jSmbEedfoB3H3T1f_s7A9k=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/aZihumluCK2I11jeCCUI81M2-0BcOMGQT3LL5t3m3PI=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/azJJo9E35GQXA2UNMIyVtXyPojG7HY2Lb7B0LeTGIss=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/blazor.boot.json
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/c-OdojBRTPWO7ZnOQG1PCHeOdFrZLQ7LqBztgmXi_rk=.hash
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/service-worker-assets.js.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Client.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Shared.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/MongoDB.Bson.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.Bson.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Data.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/service-worker-assets.js.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Client.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Shared.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/MongoDB.Bson.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.Bson.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Data.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.br
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/staticwebassets/FootballAdministration.Client.StaticWebAssets.Manifest.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/staticwebassets/FootballAdministration.Client.StaticWebAssets.xml
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/scopedcss/bundle/FootballAdministration.Client.styles.css
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorTargetAssemblyInfo.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.csproj.CopyComplete
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.pdb
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/serviceworkers/wwwroot/service-worker.js
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/service-worker-assets.js
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/tTimswS5eNWJtz61mcM8osqcvzTMd7yXA3vXpsuAfnc=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Client.StaticWebAssets.xml
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Client.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Client.pdb
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/service-worker-assets.js
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/service-worker.js
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Client.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/MongoDB.Bson.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.Bson.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/service-worker-assets.js.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Client.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/FootballAdministration.Shared.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/MongoDB.Bson.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.Bson.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/Newtonsoft.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Options.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.Extensions.Primitives.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.JSInterop.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/MongoDB.Bson.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Newtonsoft.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/Newtonsoft.Json.Bson.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Buffers.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.ComponentModel.Annotations.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Memory.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Net.Http.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Numerics.Vectors.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Text.Encodings.Web.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Text.Json.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/System.Threading.Tasks.Extensions.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/bin/Release/netstandard2.1/FootballAdministration.Shared.pdb
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.csproj.AssemblyReference.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.AssemblyInfoInputs.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.AssemblyInfo.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.csproj.CoreCompileInputs.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorComponent.input.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/App.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Pages/Playerdata.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Pages/TeamsOverview.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorComponent.output.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/RazorDeclaration/FootballAdministration.Client.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.TagHelpers.input.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.TagHelpers.output.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorCoreGenerate.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/App.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Pages/Index.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Pages/Playerdata.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Pages/TeamsOverview.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/Razor/_Imports.razor.g.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/linker.descriptor.xml
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/linker.typegranularityconfig.xml
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/Vfku85hJ5NVYl8BR7RWnPQImPpXBqPM7Z-j_dNQv_Xg=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/23dMPzEQyPi4q6YdV4y29XfV1TER0icg1RA06rHW10w=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/WVK9Gj6DsmbYd5VI8iqQSCUMqhlTneRhaenX_nZo-hs=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/h5YGK9YhAKcv_1wBiZ2110G-yHES0CrhNP3Db4AlEME=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/blazor.boot.json
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/service-worker-assets.js.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Client.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Shared.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/MongoDB.Bson.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.Bson.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Data.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/service-worker-assets.js.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Client.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/FootballAdministration.Shared.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/MongoDB.Bson.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.Bson.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/Newtonsoft.Json.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Data.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/compressed/_framework/blazor.boot.json.br
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/staticwebassets/FootballAdministration.Client.StaticWebAssets.Manifest.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/staticwebassets/FootballAdministration.Client.StaticWebAssets.xml
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/scopedcss/bundle/FootballAdministration.Client.styles.css
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.RazorTargetAssemblyInfo.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.csproj.CopyComplete
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/FootballAdministration.Client.pdb
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/serviceworkers/wwwroot/service-worker.js
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/blazor/service-worker-assets.js
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/zvjiM6XyvBTOHv-CMbCy3uZGVI6BwdAGU-o62_6CJUo=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/eNekq1-26ZFKejDiymUlYFIvFoEoxP79uvC_m_Eyrzk=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/BGyBF3Cfs5AlcYjOtfJtJpD8OqYzxssGUmFUie2HMPg=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/VHsYzStKbuaBOoxvlV6ko_fTy2PgRVeiXDCkIRl2vWQ=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/0QI_dkAMH8q2VITPhQAVz7pOcHzQa2Bt7kyCcaFcSJ0=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/tF-CB87c7bPUrsnLA8E9q-uaj4cAxpY18egvWFbjxfQ=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/8tD6CMNah_NRUmy7jYH6GQjGpx0xo3Zqlf040e0veUc=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/CS1r4vOffe0mp3BKlbT2tJbgsOuqImLPsIOQOLKwubk=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/lWMprL-iYoPyc8eeeFdA7FN51GTQSv9RqhDIkvrZnVE=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/mUQUn7J3XshoH62U1nEgstAJ1U34zBjpNuMb2X8w9d8=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/r4gXD8Ap0uiHo2T_xaCWS_ScuDeRcquOOsHUVUoPvHE=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/8yeYoQsIRqP8YyEj4xvcoo21KGflV7d_ZMx-hZkqdrw=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/g0J53w8tke1JEa1yStO0dzIl7_ZBv4BVv5SDwkgdbDU=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/I8qnzRqaxmFPBfNbYfIOzaI-JO68i2Yz_XW_iixi698=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/ej0mADlFahnZhXZ4tdOEj9CzKtLGR6FtmA7OB48_AFM=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/fUJaQRIcKWTI_cFHiKGatsu4ztIMjnhaxZ6_o-E4Lsk=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/umP_wvMGvbWSDxb4Lpk9vGtVZROZa2uSiq6OZy716WM=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/KIvaOZDVtRR9Pn4qkylkZWd3Yx-ShaCAUZT9EXSp6_o=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/sRldN9oRmiM58uSZmDB5W_KlGKxiogCgGEotb10dpXY=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/c3vYBJlm-JsaADnQ0O53UZ5yHs1xmcuPre37fPWKovs=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/OmzhCzL-4eJWa3l3v2EVuo8zXRsq1A_ZnIlxaKuEg6w=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/mTRFhERT385A2TP-DdI2mFoMbJGJ5rIN10eTbWqCFu4=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/Sh2cjRijWlr95Dq72TBY5VLV2HS1NN6YcKZ2Sk3vnc4=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/A3qwCBmsxIvkq7ZX-zZZr1sqJFRcQTqbofb58aOlUuU=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/YpajJMzV_OLXrF3XkQZqpJU82UtOK4poAmuQoHVrnAM=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/xfKxXydXaaldnjnUgt34X_lNSOHg-eX9APowOUhMt-s=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/IQ5XyOMwaPy89VIIYEalWyOt4hihA6g3hxXH8NcLwOs=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/RwD_V6OROKtLUWLZpYhuzvxEFq7fl0lBWLj88r-q7xM=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/6DQ9lTOVI54y2Pq8K2SRh74uidu95CUGq6YURlkCSZs=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/W62UgT5QNXXpXu7aYprA_aLlNSc485jDhC-rRUW1nBE=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/JIPVI9BsybTMJfajlQXDU6jIwo-znnfBrlRydh1aS3o=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/MFAcu9BXUgHBOZrKMhjfd2Ief7IOlum6QiGyrhRgKJE=.hash
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Client/obj/Release/netstandard2.1/integrity/GZoelSNfhF_t4FyCb1N8umKDQ3iMQ4cfMjdSeDer8tQ=.hash

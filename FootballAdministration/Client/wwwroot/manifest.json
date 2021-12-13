@@ -1,0 +1,15 @@
+﻿{
+  "name": "FootballAdministration",
+  "short_name": "FootballAdministration",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

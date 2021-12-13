@@ -1,0 +1,198 @@
+﻿@page "/playerdata"
+@using FootballAdministration.Shared
+@inject HttpClient Http
+
+@*
+    The site displaying all the players in the dabatase.
+    From here a user can administrate the players by deleting them or editing the team.
+    New players can also be added
+*@
+
+<h1>Players</h1>
+
+<p>See an overview of yor players here</p>
+
+@if (Players == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Team</th>
+                <th>First Name</th>
+                <th>Date of Birth</th>
+                <th>Monthly Wage</th>
+                <th>Preferred Foot</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var EditedPlayer in Players)
+            {
+                
+                    <tr>
+                        <td>
+                        <EditForm Model="EditedPlayer" OnValidSubmit="@(() => { UpdatePlayer(EditedPlayer); })">
+                            <InputSelect class="form-control"
+                                         @bind-Value="EditedPlayer.TeamName">
+                                @foreach (TeamModel team in Teams)
+                                        {
+                                    <option>@team.Name</option>
+                                        }
+                            </InputSelect>
+                            <button class="btn-delete">Update</button>
+                            </EditForm>
+                        </td>
+                    <td>@EditedPlayer.GetFullName()</td>
+                    <td>@EditedPlayer.GetBirthDate()</td>
+                    <td>@EditedPlayer.MonthlyWage</td>
+                    <td>@EditedPlayer.PreferredFoot</td>
+                    <td><button class="btn-delete" @onclick="@(() => { OnDelete(EditedPlayer); })"><i class="oi oi-trash"></i></button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<h2>Add Player</h2>
+<EditForm Model="player" OnValidSubmit="@(() => {AddPlayer(player); })">
+
+    <DataAnnotationsValidator />
+    <h3>Player</h3>
+    <hr />
+    <table>
+        <thead>
+            <tr>
+                <th>Team</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Monthly Wage</th>
+                <th>Preferred Foot</th>
+                <th>Jersey Number</th>
+                <th>Date of Birth</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                    <InputSelect id="PlayerTeam" class="form-control"
+                                 @bind-Value="player.TeamName">
+                        @*Add an empty Option to force the user to pick an option in first try*@
+                        <option></option>
+                        @foreach (TeamModel team in Teams)
+                        {
+                            <option>@team.Name</option>
+                        }
+                    </InputSelect>
+                    </div>
+                </td>
+                <td><div>
+    <InputText id="PlayerFirstName" class="form-control" placeholder="First Name"
+               @bind-Value="player.FirstName">
+    </InputText>
+</div>
+                </td>
+                <td><div>
+
+    <InputText id="PlayerLastName" class="form-control" placeholder="Last Name"
+               @bind-Value="player.LastName">
+    </InputText>
+</div>
+                </td>
+                <td><div>
+
+    <InputNumber id="PlayerMonthlyWage" class="form-control" placeholder="Monthly Wage"
+                 @bind-Value="player.MonthlyWage">
+    </InputNumber>
+</div>
+                </td>
+                <td><div>
+
+    <InputSelect id="playerPreferredFoot" class="form-control" placeholder="Preferred foot"
+               @bind-Value="player.PreferredFoot">
+        <option></option>
+        <option>R</option>
+        <option>L</option>
+    </InputSelect>
+</div>
+                </td>
+                <td><div>
+    <InputNumber id="PlayerJerseyNumber" class="form-control" placeholer="0"
+                 @bind-Value="player.JerseyNumber">
+
+    </InputNumber>
+</div>
+                </td
+                <td>
+                    <div>
+    <InputDate id="PlayerBirthdate" class="form-control"
+               @bind-Value="player.DateOfBirth">
+
+    </InputDate>
+</div>
+                </td>
+                <td><div>
+
+    <button class="btn-delete"><i class="oi oi-plus"></i><br />Add</button>
+</div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</EditForm>
+
+@code {
+    private PlayerModel player = new PlayerModel();
+    private List<PlayerModel> Players = new List<PlayerModel>();
+    private List<TeamModel> Teams = new List<TeamModel>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        //Gets the lists of Players and Teams from the corresponding controllers
+        Players = await Http.GetFromJsonAsync<List<PlayerModel>>("Player");
+        Teams = await Http.GetFromJsonAsync<List<TeamModel>>("Team");
+    }
+
+    protected void AddPlayer(PlayerModel newPlayer)
+    {
+        //Method that takes 1 object of PlayerModel and adds it to the Database
+
+        //Calls the HttpPost method in the Player Controller
+        Http.PostAsJsonAsync<PlayerModel>("Player", newPlayer);
+        Players.Add(newPlayer);
+
+        //Reset the EditForm
+        player = new PlayerModel();
+    }
+
+    protected void UpdatePlayer(PlayerModel player)
+    {
+        //Method that Updates a player in the list. Takes 1 object of PlayerModel as argument
+
+        //Calls the HttpPut method in the Player Controller
+        Http.PutAsJsonAsync<PlayerModel>("Player", player);
+    }
+
+    protected async Task OnDelete(PlayerModel player)
+    {
+        //Make a new List of all players
+        List<PlayerModel> NewPlayers = new List<PlayerModel>();
+        NewPlayers = Players;
+        //Remove the player argument from the new player's list
+        NewPlayers.Remove(player);
+
+        //Call the HttpDelete that deletes ALL players from the collection
+        await Http.DeleteAsync("Player");
+
+
+        //Now add all players from the new player's list to the collection in the db
+        foreach(PlayerModel undeletedPlayer in NewPlayers)
+        {
+            await Http.PostAsJsonAsync<PlayerModel>("Player", undeletedPlayer);
+        }
+    }
+}

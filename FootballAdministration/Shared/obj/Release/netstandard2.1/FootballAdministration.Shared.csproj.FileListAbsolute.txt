@@ -1,0 +1,20 @@
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/bin/Release/netstandard2.1/FootballAdministration.Shared.deps.json
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/bin/Release/netstandard2.1/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/bin/Release/netstandard2.1/FootballAdministration.Shared.pdb
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.csproj.AssemblyReference.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.AssemblyInfoInputs.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.AssemblyInfo.cs
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.csproj.CoreCompileInputs.cache
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Projects/FootballAdministration/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.pdb
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/bin/Release/netstandard2.1/FootballAdministration.Shared.deps.json
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/bin/Release/netstandard2.1/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/bin/Release/netstandard2.1/FootballAdministration.Shared.pdb
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.csproj.AssemblyReference.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.AssemblyInfoInputs.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.AssemblyInfo.cs
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.csproj.CoreCompileInputs.cache
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.dll
+/Users/rasmusklatt/Desktop/FootballApp working/FootballAdministration/Shared/obj/Release/netstandard2.1/FootballAdministration.Shared.pdb

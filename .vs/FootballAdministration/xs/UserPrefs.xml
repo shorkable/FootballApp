@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{8379C2E7-A144-4C42-9B97-5227C0A206CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FootballAdministration/Shared/PlayerModel.cs">
+    <Files>
+      <File FileName="FootballAdministration/Client/Pages/Playerdata.razor" Line="156" Column="55" />
+      <File FileName="FootballAdministration/Server/Program.cs" />
+      <File FileName="FootballAdministration/Client/Pages/Index.razor" />
+      <File FileName="FootballAdministration/Client/Pages/TeamsOverview.razor" />
+      <File FileName="FootballAdministration/Server/Controllers/TeamController.cs" />
+      <File FileName="FootballAdministration/Shared/PlayerModel.cs" Line="18" Column="48" />
+      <File FileName="FootballAdministration/Shared/TeamModel.cs" />
+      <File FileName="FootballAdministration/Shared/PersonModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FootballAdministration" expanded="True">
+            <Node name="FootballAdministration.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="FootballAdministration.Server" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="FootballAdministration.Shared" expanded="True">
+              <Node name="PlayerModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="FootballAdministration" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FootballAdministration.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
